@@ -1,0 +1,11 @@
+C:\Users\ejsvk\source\repos\ControlTestApp\ControlTestApp\obj\Debug\ControlTestApp.csprojAssemblyReference.cache
+C:\Users\ejsvk\source\repos\ControlTestApp\ControlTestApp\bin\Debug\ControlTestApp.exe.config
+C:\Users\ejsvk\source\repos\ControlTestApp\ControlTestApp\bin\Debug\ControlTestApp.exe
+C:\Users\ejsvk\source\repos\ControlTestApp\ControlTestApp\bin\Debug\ControlTestApp.pdb
+C:\Users\ejsvk\source\repos\ControlTestApp\ControlTestApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ejsvk\source\repos\ControlTestApp\ControlTestApp\bin\Debug\websocket-sharp.dll
+C:\Users\ejsvk\source\repos\ControlTestApp\ControlTestApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ejsvk\source\repos\ControlTestApp\ControlTestApp\bin\Debug\websocket-sharp.xml
+C:\Users\ejsvk\source\repos\ControlTestApp\ControlTestApp\obj\Debug\ControlTestApp.csproj.CopyComplete
+C:\Users\ejsvk\source\repos\ControlTestApp\ControlTestApp\obj\Debug\ControlTestApp.exe
+C:\Users\ejsvk\source\repos\ControlTestApp\ControlTestApp\obj\Debug\ControlTestApp.pdb
